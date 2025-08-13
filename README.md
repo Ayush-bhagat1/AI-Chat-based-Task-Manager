@@ -2,19 +2,6 @@
 
 A full-stack task management application with a **Next.js frontend**, **Python backend**, and **PostgreSQL database** setup via Docker Compose.
 
----
-
-## 📁 Project Structure
-
-.
-├── my-task-app/ # Frontend - Next.js
-├── backend/ # Backend - Python (FastAPI / Flask / etc.)
-└── docker-compose.yml # PostgreSQL Docker setup
-
-yaml
-
----
-
 ## 🚀 Quick Start
 
 ### 1. Clone the Repository
